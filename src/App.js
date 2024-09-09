@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Hello from docker class</p>
       </header>
     </div>
   );
