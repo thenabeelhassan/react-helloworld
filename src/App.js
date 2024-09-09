@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <p>My name is Nabeel</p>
       </header>
     </div>
   );
